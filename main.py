@@ -1,5 +1,5 @@
 import streamlit as st
-from cv2 import cv2
+import cv2
 import numpy as np
 from collections import deque
 from tools import generate_detections as gdet
