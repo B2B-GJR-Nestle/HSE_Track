@@ -7,7 +7,7 @@ from deep_sort.tracker import Tracker
 from deep_sort.detection import Detection
 from deep_sort import nn_matching
 from deep_sort import preprocessing
-from yolov3_tf2.utils import convert_boxes
+#from yolov3_tf2.utils import convert_boxes
 from yolov3_tf2.dataset import transform_images
 from yolov3_tf2.models import YoloV3
 from datetime import datetime
