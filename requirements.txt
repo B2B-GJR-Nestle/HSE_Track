@@ -5,3 +5,4 @@ matplotlib
 tensorflow
 yolov3-tf2
 streamlit
+cv2
